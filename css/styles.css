@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+}
+
+title {
+  color: white;
+  font-family: monospace;
+  font-style: normal;
+}
+
+p, ul, ol, td {
+  font-size: 18px;
+  font-family: monospace;
+}
